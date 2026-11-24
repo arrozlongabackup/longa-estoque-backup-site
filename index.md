@@ -24,4 +24,4 @@ A integração ainda está em desenvolvimento e validação.
 
 Esta página é apenas informativa. Os bancos de dados e arquivos de backup não são disponibilizados publicamente neste site.
 
-Uma política de privacidade específica será publicada neste repositório.
+Leia nossa [Política de Privacidade](privacidade.html).
